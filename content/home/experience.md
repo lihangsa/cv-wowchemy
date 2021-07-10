@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Volontariat an der Ausstellung „Love In The Times Of...“
     company: kuratiert von Gianni Jetzer
-    company_url: ''
+    company_url: 'https://lovetimes.art/'
     company_logo: org-gc
     location: 'Hotel Europe Zürich'
     date_start: '2021-06-01'
