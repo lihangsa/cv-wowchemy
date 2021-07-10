@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: Masterstudium Kunstgeschichte
+    institution: Universität Zürich
+    year: Seit 2021
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
