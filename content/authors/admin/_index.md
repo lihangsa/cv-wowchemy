@@ -21,6 +21,7 @@ interests:
 - Fotografieren
 - Nähen
 - Sticken
+- Schlafen
 
 # Education to show in About widget
 education:
