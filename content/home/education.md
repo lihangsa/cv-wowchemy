@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 29
+weight: 39
 
 title: Ausbildung
 subtitle:
@@ -22,28 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Volontariat an der Ausstellung „Love In The Times Of...“
-    company: kuratiert von Gianni Jetzer
+  - title: Masterstudium Kunstgeschichte
+    company: Universität Zürich
     company_url: 'https://lovetimes.art/'
     company_logo: org-gc
-    location: 'Hotel Europe Zürich'
+    location: ''
     date_start: '2021-06-01'
-    date_end: '2021-06-01'
+    date_end: ''
     description: |2-       
-        * Aufsicht
-        * Information
+      Abschluss voraussichtlich 2022
         
-  - title: Assistentin im Künstleratelier 
-    company: Jonis S. Figi
+  - title: Bachelor of Arts in Kunstgeschichte mit Nebenfach Philosophie
+    company: Universität Zürich
     company_url: ''
     company_logo: org-x
     location: Zürich
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        * Mitarbeit bei Aufbau und Abbau von Werkpräsentationen
-        * Vermittlungstätigkeiten,
-        * organisatorische Tätigkeiten
+    date_start: '2017-09-01'
+    date_end: '2020-12-01'
+    description: '
+        Bachelorarbeit mit dem Titel: „Heldin, Ikone oder Monster? Die Darstellung der Widerstandskämpferin Djamila Bouhired in der Videoarbeit „Have You Ever Killed a Bear? Or Becoming Jamila“ von Marwa Arsanios“.'
 
 design:
   columns: '2'
