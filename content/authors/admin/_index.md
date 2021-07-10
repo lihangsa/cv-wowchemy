@@ -28,12 +28,18 @@ education:
   - course: Masterstudium Kunstgeschichte
     institution: Universität Zürich
     year: Seit 2021
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Bachelor of Arts in Kunstgeschichte mit Nebenfach Philosophie
+    institution: Universität Zürich
+    year: Sep. 2017 - Dez. 2020
+  - course: Bachelorstudium Philosophie und Publizistik- und Kommunikationswissenschaften
+    institution: Universität Zürich
+    year: Sep. 2015 - Aug. 2017
+  - course: Bachelorstudium Philosophie und Medienwissenschaften
+    institution: Universität Basel
+    year: Sep. 2013 - Aug. 2015
+  - course: Maturität mit Schwerpunkt Bildnerisches Gestalten
+    institution: Kantonsschule Wattwil
+    year: 2007 - 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
